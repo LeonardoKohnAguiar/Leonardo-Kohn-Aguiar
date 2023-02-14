@@ -1,6 +1,6 @@
 # Olá! Me chamo Leonardo Kohn <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="50"></h1>
 
-- 👔 Hoje trabalho com Front-end e Desenvolvimento Web
+ - 👔 Hoje trabalho com Front-end e Desenvolvimento Web
 - 📖 Cursando - Análise e Desenvolvimento de Sistema (Estácio)
 - 📫 como me contactar: (11)98696-8231 - leonardok.aguiar@yahoo.com.br
 
@@ -20,4 +20,5 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=LeonardoKohnAguiar&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
-![Snake animation](https://github.com/Leodf/Leodf/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Leodf/Leodf/blob/output/github-contribution-grid-snake.svg)        
+    
