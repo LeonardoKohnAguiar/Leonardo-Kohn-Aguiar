@@ -1,4 +1,4 @@
-# Olá! Me chamo Leonardo Kohn <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="50"></h1>
+# Olá! Me chamo Leonardo Köhn Aguiar <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="50"></h1>
 
  - 👔 Hoje trabalho com Front-end e Desenvolvimento Web
 - 📖 Cursando - Análise e Desenvolvimento de Sistema (Estácio)
